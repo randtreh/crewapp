@@ -1,0 +1,144 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 20/01/2022, 11:51:38 a. m.
+    Author     : Randy Trejos
+*/
+
+html{
+    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#logo1{
+    padding-left:100px ;
+}
+#encabezado{
+    width: 100%;
+}
+
+#navegacion {
+    padding: 20px;
+}
+
+#navegacion a {
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size:90% ;
+}
+
+#navegacion a:hover{
+    color: orange;
+}
+
+#navegacion #seleccion{
+    color: orange;
+}
+
+#seccionIndex1{
+    color: white;
+    background-size: cover;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+button a:hover{
+    color: black;
+}
+
+#seccionIndex2 img{
+    width: 100%;
+    border: 2px solid black;
+}
+#seccionIndex2 img:hover {
+    width: 100%;
+    border: 2px solid orange;
+}
+
+#seccionGaleria{
+    margin-top:20px;
+    background-color:whitesmoke;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding: 30PX;
+}
+
+#seccionGaleria img{
+    width: 100%;
+    border: 2px solid black;
+}
+#seccionGaleria img:hover {
+    width: 100%;
+    border: 2px solid orange;
+}
+
+.pie{
+    font-size: 13px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.resaltar{
+    text-decoration: none;
+    color:white;
+}
+.resaltar:hover{
+    text-decoration: none;
+    color:orange;
+}
+.pie_imagen{
+    height: 50px;
+    border:1px solid white;
+    border-radius: 5px;
+    margin: 5px;
+}
+.pie_imagen:hover{
+    border:1px solid orange;
+}
+.contenedor{
+    border: solid 2px gainsboro;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.cell:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.cuadro_img{
+    border: 2px solid black;
+}
+.cuadro_img:hover{
+    border: 2px solid orange;
+}
+
+#seccionIndex2{
+    margin-top:20px;
+    background-color:whitesmoke;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+
+
+
+
+

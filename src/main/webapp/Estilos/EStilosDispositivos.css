@@ -1,0 +1,119 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 15/03/2022, 2:22:48 p. m.
+    Author     : Randy Trejos
+*/
+
+@media screen and (max-width:430px)  {
+    .cell{
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .cell-img{
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .text-img1{
+        width: 180px;
+    }
+    .boton{
+        background-color: orangered;
+        color: white;
+        font-style: oblique;
+        border: transparent;
+        border-radius: 5px;
+        height: 30px;
+        width: 120px;
+        text-decoration: none;
+    }
+    .cuadros{
+
+    }
+    .text_cuadros{
+        font-size: 12px;
+    }
+
+}
+@media screen and (min-width:430px) and (max-width:840px) {
+    .cell{
+        font-size: 15px;
+
+    }
+    .cell-img{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .text-img1{
+        width: 320px;
+    }
+    .boton{
+        background-color: orangered;
+        color: white;
+        font-style: oblique;
+        border: transparent;
+        border-radius: 5px;
+        height: 30px;
+        width: 200px;
+        text-decoration: none;
+    }
+    .cuadros{
+        margin-top: 5px;
+    }
+    .text_cuadros{
+        font-size: 12px;
+    }
+
+}
+@media screen and (min-width:840px) and (max-width:1300px)  {
+    .cell{
+        font-size: 15px;
+
+    }
+    .cell-img{
+        font-size: 40px;
+        font-weight: bold;
+    }
+    .text-img1{
+        width: 500px;
+    }
+    .boton{
+        background-color: orangered;
+        color: white;
+        font-style: oblique;
+        border: transparent;
+        border-radius: 5px;
+        height: 30px;
+        width: 200px;
+        text-decoration: none;
+    }
+    .text_cuadros{
+        font-size: 12px;
+    }
+}
+
+
+@media screen and (min-width:1300px) and (max-width:2000px)  {
+    .cell{
+        font-size: 15px;
+    }
+    .cell-img{
+        font-size: 60px;
+        font-weight: bold;
+    }
+    .text-img1{
+        width: 700px;
+    }
+    .boton{
+        background-color: orangered;
+        color: white;
+        font-style: oblique;
+        border: transparent;
+        border-radius: 5px;
+        height: 30px;
+        width: 200px;
+        text-decoration: none;
+    }
+}
